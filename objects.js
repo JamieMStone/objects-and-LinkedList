@@ -12,10 +12,6 @@ class Person {
 
 }
 
-
-
-
-
 let Jean = new Person("Jean", ['N/A', 'N/A']);
 
 let Brian = new Person("Brian", ['N/A', 'N/A']);
